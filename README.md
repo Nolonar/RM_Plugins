@@ -1,7 +1,7 @@
 # RPG Maker plugins
 This page lists all RPG Maker plugins made by Nolonar.
 
-| Project             | Github page               | Latest release                        |
+| Project             | GitHub page               | Latest release                        |
 | ------------------- | ------------------------- | ------------------------------------- |
 | N_HideIdleMouse     | [Link][N_HideIdleMouse]   | [Download][N_HideIdleMouse_release]   |
 | N_StartFullscreen   | [Link][N_StartFullscreen] | [Download][N_StartFullscreen_release] |
