@@ -1,11 +1,18 @@
 # RPG Maker plugins
 This page lists all RPG Maker plugins made by Nolonar.
 
-| Project           | Description                                                                         | GitHub page               | Latest release                     |
-| ----------------- | ----------------------------------------------------------------------------------- | ------------------------- | ---------------------------------- |
-| N_HideIdleMouse   | Hides the mouse cursor if it hasn't been moved for a while.                         | [Link][N_HideIdleMouse]   | [1.0.0][N_HideIdleMouse_release]   |
-| N_StartFullscreen | Automatically launches the game in fullscreen mode.                                 | [Link][N_StartFullscreen] | [1.1.0][N_StartFullscreen_release] |
-| N_TitleMap        | Renders an ingame map (including events) as title screen instead of a static image. | [Link][N_TitleMap]        | [1.0.0][N_TitleMap_release]        |
+## Compatible with MV and MZ
+| Project            | Description                                                                         | GitHub page                | Latest release                      |
+| ------------------ | ----------------------------------------------------------------------------------- | -------------------------- | ----------------------------------- |
+| N_HideIdleMouse    | Hides the mouse cursor if it hasn't been moved for a while.                         | [Link][N_HideIdleMouse]    | [1.0.0][N_HideIdleMouse_release]    |
+| N_StartFullscreen  | Automatically launches the game in fullscreen mode.                                 | [Link][N_StartFullscreen]  | [1.1.0][N_StartFullscreen_release]  |
+| N_TitleMap         | Renders an ingame map (including events) as title screen instead of a static image. | [Link][N_TitleMap]         | [1.0.0][N_TitleMap_release]         |
+
+## Compatible with MZ only
+| Project            | Description                                                                         | GitHub page                | Latest release                      |
+| ------------------ | ----------------------------------------------------------------------------------- | -------------------------- | ----------------------------------- |
+| N_EnhancedAutosave | Adds some improvements to the existing autosave feature.                            | [Link][N_EnhancedAutosave] | [1.0.0][N_EnhancedAutosave_release] |
+
 
 ## About versioning
 All projects are versioned using following convention: `major.minor.revision`. For example, version 3.2.5 is:
@@ -39,3 +46,6 @@ It is generally safe to update to a newer Revision number. When updating to a ne
 
   [N_TitleMap]: https://github.com/Nolonar/RM_Plugins-TitleMap
   [N_TitleMap_release]: https://github.com/Nolonar/RM_Plugins-TitleMap/releases/latest/download/N_TitleMap.js
+
+  [N_EnhancedAutosave]: https://github.com/Nolonar/RM_Plugins-EnhancedAutosave
+  [N_EnhancedAutosave_release]: https://github.com/Nolonar/RM_Plugins-EnhancedAutosave/releases/latest/download/N_EnhancedAutosave.js
