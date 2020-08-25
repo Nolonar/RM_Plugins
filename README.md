@@ -11,7 +11,7 @@ This page lists all RPG Maker plugins made by Nolonar.
 ## Compatible with MZ only
 | Project                                  | Description                                                                         | Latest release                      |
 | ---------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------- |
-| [N_EnhancedAutosave][N_EnhancedAutosave] | Adds some improvements to the existing autosave feature.                            | [1.0.0][N_EnhancedAutosave_release] |
+| [N_EnhancedAutosave][N_EnhancedAutosave] | Adds some improvements to the existing autosave feature.                            | [1.0.1][N_EnhancedAutosave_release] |
 
 
 ## About versioning
