@@ -9,7 +9,7 @@ This page lists all RPG Maker plugins made by Nolonar.
 | [N_TitleMap][N_TitleMap]                 | Renders an ingame map (including events) as title screen instead of a static image. | [1.0.1][N_TitleMap_release]         |
 |                                          | **Compatible with MZ only**                                                         |                                     |
 | [N_EnhancedAutosave][N_EnhancedAutosave] | Adds some improvements to the existing autosave feature.                            | [1.0.1][N_EnhancedAutosave_release] |
-| [N_SpeechBubbles][N_SpeechBubbles]       | Renders speech bubbles above targets.                                               | [1.0.2][N_SpeechBubbles_release]    |
+| [N_SpeechBubbles][N_SpeechBubbles]       | Renders speech bubbles above targets.                                               | [1.0.3][N_SpeechBubbles_release]    |
 
 
 ## About versioning
