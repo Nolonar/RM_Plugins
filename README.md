@@ -1,15 +1,16 @@
 # RPG Maker plugins
 This page lists all RPG Maker plugins made by Nolonar.
 
-| Project                                  | Description                                                                         | Latest release                      |
-| ---------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------- |
-|                                          | **Compatible with MV and MZ**                                                       |                                     |
-| [N_HideIdleMouse][N_HideIdleMouse]       | Hides the mouse cursor if it hasn't been moved for a while.                         | [1.0.0][N_HideIdleMouse_release]    |
-| [N_StartFullscreen][N_StartFullscreen]   | Automatically launches the game in fullscreen mode.                                 | [1.1.1][N_StartFullscreen_release]  |
-| [N_TitleMap][N_TitleMap]                 | Renders an ingame map (including events) as title screen instead of a static image. | [1.0.1][N_TitleMap_release]         |
-|                                          | **Compatible with MZ only**                                                         |                                     |
-| [N_EnhancedAutosave][N_EnhancedAutosave] | Adds some improvements to the existing autosave feature.                            | [1.0.2][N_EnhancedAutosave_release] |
-| [N_SpeechBubbles][N_SpeechBubbles]       | Renders speech bubbles above targets.                                               | [1.0.4][N_SpeechBubbles_release]    |
+| Project                                    | Description                                                                         | Latest release                       |
+| ------------------------------------------ | ----------------------------------------------------------------------------------- | ------------------------------------ |
+|                                            | **Compatible with MV and MZ**                                                       |                                      |
+| [N_HideIdleMouse][N_HideIdleMouse]         | Hides the mouse cursor if it hasn't been moved for a while.                         | [1.0.0][N_HideIdleMouse_release]     |
+| [N_StartFullscreen][N_StartFullscreen]     | Automatically launches the game in fullscreen mode.                                 | [1.1.1][N_StartFullscreen_release]   |
+| [N_TitleMap][N_TitleMap]                   | Renders an ingame map (including events) as title screen instead of a static image. | [1.0.1][N_TitleMap_release]          |
+|                                            | **Compatible with MZ only**                                                         |                                      |
+| [N_EnhancedAutosave][N_EnhancedAutosave]   | Adds some improvements to the existing autosave feature.                            | [1.0.2][N_EnhancedAutosave_release]  |
+| [N_SelfSwitchControl][N_SelfSwitchControl] | Control Self Switches from other events and maps.                                   | [1.0.0][N_SelfSwitchControl_release] |
+| [N_SpeechBubbles][N_SpeechBubbles]         | Renders speech bubbles above targets.                                               | [1.0.4][N_SpeechBubbles_release]     |
 
 
 ## About versioning
@@ -50,3 +51,6 @@ It is generally safe to update to a newer Revision number. When updating to a ne
 
   [N_SpeechBubbles]: https://github.com/Nolonar/RM_Plugins-SpeechBubbles
   [N_SpeechBubbles_release]: https://github.com/Nolonar/RM_Plugins-SpeechBubbles/releases/latest/download/N_SpeechBubbles.js
+  
+  [N_SelfSwitchControl]: https://github.com/Nolonar/RM_Plugins-SelfSwitchControl
+  [N_SelfSwitchControl_release]: https://github.com/Nolonar/RM_Plugins-SelfSwitchControl/releases/latest/download/N_SelfSwitchControl.js
