@@ -11,6 +11,7 @@ This page lists all RPG Maker plugins made by Nolonar.
 | [N_EnhancedAutosave][N_EnhancedAutosave]   | Adds some improvements to the existing autosave feature.                            | [1.0.2][N_EnhancedAutosave_release]  |
 | [N_SelfSwitchControl][N_SelfSwitchControl] | Control Self Switches from other events and maps.                                   | [1.1.1][N_SelfSwitchControl_release] |
 | [N_SpeechBubbles][N_SpeechBubbles]         | Renders speech bubbles above targets.                                               | [1.0.4][N_SpeechBubbles_release]     |
+| [N_TestMap][N_TestMap]                     | Adds option to launch test map instead of regular game.                             | [1.0.0][N_TestMap_release]           |
 
 
 ## About versioning
@@ -54,3 +55,6 @@ It is generally safe to update to a newer Revision number. When updating to a ne
   
   [N_SelfSwitchControl]: https://github.com/Nolonar/RM_Plugins-SelfSwitchControl
   [N_SelfSwitchControl_release]: https://github.com/Nolonar/RM_Plugins-SelfSwitchControl/releases/latest/download/N_SelfSwitchControl.js
+
+  [N_TestMap]: https://github.com/Nolonar/RM_Plugins-TestMap
+  [N_TestMap_release]: https://github.com/Nolonar/RM_Plugins-TestMap/releases/latest/download/N_TestMap.js
