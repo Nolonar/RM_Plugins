@@ -28,7 +28,7 @@ When a higher number changes, all lower numbers are reset to 0. For example, whe
 
 Here's what each change means:
 - **Major**: These are likely to break your project. Make sure you perform a full test of your project when you update. Possible changes may include:
-  - Use of new features not supported by older versions of RPG Maker (or its underlying NW.js engine). Do ***not*** update the plugin in this case.
+  - Use of new features not supported by older versions of RPG Maker (or its underlying NW.js engine). Do ***not*** update the plugin in this case, unless you've updated RPG Maker.
   - Some plugin command has been removed.
   - Some plugin command has been renamed.
 
