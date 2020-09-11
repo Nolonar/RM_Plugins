@@ -12,7 +12,7 @@ This page lists all RPG Maker plugins made by Nolonar.
 | [N_Benchmark][N_Benchmark]                         | Adds a benchmark option to the game.                        | [1.1.0][N_Benchmark_release]             |
 | [N_EnhancedAutosave][N_EnhancedAutosave]           | Adds some improvements to the existing autosave feature.    | [1.1.0][N_EnhancedAutosave_release]      |
 | [N_EnhancedTouchUIButton][N_EnhancedTouchUIButton] | Adds some improvements to the existing touch UI button.     | [1.0.0][N_EnhancedTouchUIButton_release] |
-| [N_Minimap][N_Minimap]                             | Adds a minimap to the game.                                 | [1.0.0][N_Minimap_release]               |
+| [N_Minimap][N_Minimap]                             | Adds a minimap to the game.                                 | [1.0.1][N_Minimap_release]               |
 | [N_SelfSwitchControl][N_SelfSwitchControl]         | Control Self Switches from other events and maps.           | [1.1.1][N_SelfSwitchControl_release]     |
 | [N_SpeechBubbles][N_SpeechBubbles]                 | Renders speech bubbles above targets.                       | [1.0.4][N_SpeechBubbles_release]         |
 | [N_TestMap][N_TestMap]                             | Adds option to launch test map instead of regular game.     | [1.0.1][N_TestMap_release]               |
