@@ -10,7 +10,7 @@ This page lists all RPG Maker plugins made by Nolonar.
 | [N_TitleMap][N_TitleMap]                           | Renders an ingame map (including events) as title screen.   | [1.0.3][N_TitleMap_release]              |
 |                                                    | **Compatible with MZ only**                                 |                                          |
 | [N_AutoTextReplace][N_AutoTextReplace]             | Automatically replaces some text with some other text.      | [1.0.0][N_AutoTextReplace_release]       |
-| [N_Benchmark][N_Benchmark]                         | Adds a benchmark option to the game.                        | [1.1.0][N_Benchmark_release]             |
+| [N_Benchmark][N_Benchmark]                         | Adds a benchmark option to the game.                        | [1.1.1][N_Benchmark_release]             |
 | [N_EnhancedAutosave][N_EnhancedAutosave]           | Adds some improvements to the existing autosave feature.    | [1.1.0][N_EnhancedAutosave_release]      |
 | [N_EnhancedTouchUIButton][N_EnhancedTouchUIButton] | Adds some improvements to the existing touch UI button.     | [1.0.1][N_EnhancedTouchUIButton_release] |
 | [N_Minimap][N_Minimap]                             | Adds a minimap to the game.                                 | [1.0.1][N_Minimap_release]               |
