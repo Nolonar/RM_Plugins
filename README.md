@@ -11,7 +11,7 @@ This page lists all RPG Maker plugins made by Nolonar.
 | [N_TitleMap][N_TitleMap]                           | Renders an ingame map (including events) as title screen.   | [1.0.3][N_TitleMap_release]              |
 |                                                    | **Compatible with MZ only**                                 |                                          |
 | [N_Benchmark][N_Benchmark]                         | Adds a benchmark option to the game.                        | [1.1.1][N_Benchmark_release]             |
-| [N_BustDialog][N_BustDialog]                       | Lets you use busts for dialogs instead of faces.            | [1.0.0][N_BustDialog_release]            |
+| [N_BustDialog][N_BustDialog]                       | Lets you use busts for dialogs instead of faces.            | [1.1.0][N_BustDialog_release]            |
 | [N_EnhancedAutosave][N_EnhancedAutosave]           | Adds some improvements to the existing autosave feature.    | [1.1.0][N_EnhancedAutosave_release]      |
 | [N_EnhancedTouchUIButton][N_EnhancedTouchUIButton] | Adds some improvements to the existing touch UI button.     | [1.0.1][N_EnhancedTouchUIButton_release] |
 | [N_Minimap][N_Minimap]                             | Adds a minimap to the game.                                 | [1.0.1][N_Minimap_release]               |
@@ -27,18 +27,19 @@ All projects are versioned using following convention: `major.minor.revision`. F
 - **Minor**: 2
 - **Revision**: 5
 
-When a higher number changes, all lower numbers are reset to 0. For example, when 3.2.5 receives a Major update to 4, the new version number is 4.0.0
+When a higher number changes, all lower numbers are reset to 0. For example, when 3.2.5 receives a Minor update to 3, the new version number is 3.3.0. When 3.2.5 receives a Major update to 4 instead, the new version number is 4.0.0
 
 Here's what each change means:
 - **Major**: These are likely to break your project. Make sure you perform a full test of your project when you update. Possible changes may include:
   - Use of new features not supported by older versions of RPG Maker (or its underlying NW.js engine). Do ***not*** update the plugin in this case, unless you've updated RPG Maker.
   - Some plugin command has been removed.
   - Some plugin command has been renamed.
+  - The structure of parameters or arguments has changed and the plugin is incompatible to the old structure.
 
 - **Minor**: These can change how the plugin behaves, which might affect player progression in certain circumstances. Possible changes may include:
   - Behavior of the plugin has changed, possibly through change in algorithm. Projects that rely on precise behavior may need testing.
   - Some plugin command has been added.
-  - Plugin has become more customizable through additional parameters.
+  - Plugin has become more customizable through additional parameters or arguments.
   - Major visual tweaks.
 
 - **Revision**: These changes fix bugs or make minor adjustments to the code. These are unlikely to break your project or negatively affect player progression.
