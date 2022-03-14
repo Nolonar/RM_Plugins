@@ -3,7 +3,7 @@ This page lists all RPG Maker plugins made by Nolonar.
 
 | Project                                            | Description                                                 | Latest release                           |
 | -------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------- |
-|                                                    | **Compatible with MV and MZ**                               | version (tested with MV)                 |
+|                                                    | **Compatible with MV and MZ**                               | All (MV only)                            |
 | [N_AutoTextReplace][N_AutoTextReplace]             | Automatically replaces some text with some other text.      | [1.0.0][N_AutoTextReplace_release]       |
 | [N_HideIdleMouse][N_HideIdleMouse]                 | Hides the mouse cursor if it hasn't been moved for a while. | [1.0.0][N_HideIdleMouse_release]         |
 | [N_Pixelate][N_Pixelate]                           | Disables smoothing to make graphics look pixelated.         | [1.1.0][N_Pixelate_release] (1.0.0)      |
