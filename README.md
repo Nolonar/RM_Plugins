@@ -6,7 +6,7 @@ This page lists all RPG Maker plugins made by Nolonar.
 |                                                    | **Compatible with MV and MZ**                               |                                          |
 | [N_AutoTextReplace][N_AutoTextReplace]             | Automatically replaces some text with some other text.      | [1.0.0][N_AutoTextReplace_release]       |
 | [N_HideIdleMouse][N_HideIdleMouse]                 | Hides the mouse cursor if it hasn't been moved for a while. | [1.0.0][N_HideIdleMouse_release]         |
-| [N_Pixelate][N_Pixelate]                           | Disables smoothing to make graphics look pixelated.         | [1.0.0][N_Pixelate_release]              |
+| [N_Pixelate][N_Pixelate]                           | Disables smoothing to make graphics look pixelated.         | [1.1.0][N_Pixelate_release]              |
 | [N_StartFullscreen][N_StartFullscreen]             | Automatically launches the game in fullscreen mode.         | [1.2.2][N_StartFullscreen_release]       |
 | [N_TitleMap][N_TitleMap]                           | Renders an ingame map (including events) as title screen.   | [1.0.3][N_TitleMap_release]              |
 |                                                    | **Compatible with MZ only**                                 |                                          |
@@ -20,6 +20,14 @@ This page lists all RPG Maker plugins made by Nolonar.
 | [N_TestMap][N_TestMap]                             | Adds option to launch test map instead of regular game.     | [1.0.2][N_TestMap_release]               |
 | [N_WeatherFog][N_WeatherFog]                       | Adds procedurally generated fog weather effect.             | [1.2.1][N_WeatherFog_release]            |
 
+
+## About MV support
+I am no longer supporting MV. This means:
+- New plugins will be developed exclusively for MZ (unless the MV version is trivial).
+- Plugins that were originally compatible with MV will no longer be tested on MV when a new version is released.
+- Plugins that are not "MV compatible" ***might*** still work with MV, but have never been tested. If a plugin has the following, ***it will definitely not work with MV***:
+  - Uses plugin commands. MZ Plugin command interface is incompatible to MV. Making plugins compatible to both interfaces is a significant amount of additional work.
+  - Creates (custom) windows. Window creation has changed considerably from MV. Making plugins compatible to both creation procedures is a significant amount of additional work.
 
 ## About versioning
 All projects are versioned using following convention: `major.minor.revision`. For example, version 3.2.5 is:
