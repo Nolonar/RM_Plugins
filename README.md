@@ -9,7 +9,7 @@ This page lists all RPG Maker plugins made by Nolonar.
 | [N_Pixelate][N_Pixelate]                           | Disables smoothing to make graphics look pixelated.         | [1.1.0][N_Pixelate_release] (1.0.0)        |
 | [N_StartFullscreen][N_StartFullscreen]             | Automatically launches the game in fullscreen mode.         | [1.2.3][N_StartFullscreen_release] (1.2.3) |
 | [N_TitleMap][N_TitleMap]                           | Renders an ingame map (including events) as title screen.   | [1.0.3][N_TitleMap_release]                |
-| [N_WeatherFog][N_WeatherFog]                       | Adds procedurally generated fog weather effect.             | [1.3.0][N_WeatherFog_release] (1.3.0)      |
+| [N_WeatherFog][N_WeatherFog]                       | Adds procedurally generated fog weather effect.             | [1.3.1][N_WeatherFog_release] (1.3.1)      |
 |                                                    | **Compatible with MZ only**                                 |                                            |
 | [N_Benchmark][N_Benchmark]                         | Adds a benchmark option to the game.                        | [1.1.1][N_Benchmark_release]               |
 | [N_BustDialog][N_BustDialog]                       | Lets you use busts for dialogs instead of faces.            | [1.1.0][N_BustDialog_release]              |
