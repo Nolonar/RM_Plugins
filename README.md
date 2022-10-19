@@ -8,7 +8,7 @@ This page lists all RPG Maker plugins made by Nolonar.
 | [N_HideIdleMouse][N_HideIdleMouse]                 | Hides the mouse cursor if it hasn't been moved for a while. | [1.0.1][N_HideIdleMouse_release]           |
 | [N_Pixelate][N_Pixelate]                           | Disables smoothing to make graphics look pixelated.         | [1.1.0][N_Pixelate_release] (1.0.0)        |
 | [N_StartFullscreen][N_StartFullscreen]             | Automatically launches the game in fullscreen mode.         | [1.2.3][N_StartFullscreen_release] (1.2.3) |
-| [N_TitleMap][N_TitleMap]                           | Renders an ingame map (including events) as title screen.   | [1.0.5][N_TitleMap_release] (1.0.4)        |
+| [N_TitleMap][N_TitleMap]                           | Renders an ingame map (including events) as title screen.   | [1.0.6][N_TitleMap_release] (1.0.4)        |
 | [N_WeatherFog][N_WeatherFog]                       | Adds procedurally generated fog weather effect.             | [1.4.3][N_WeatherFog_release]              |
 |                                                    | **Compatible with MZ only**                                 |                                            |
 | [N_Benchmark][N_Benchmark]                         | Adds a benchmark option to the game.                        | [1.1.1][N_Benchmark_release]               |
