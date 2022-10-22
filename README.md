@@ -11,7 +11,7 @@ This page lists all RPG Maker plugins made by Nolonar.
 | [N_TitleMap][N_TitleMap]                           | Renders an ingame map (including events) as title screen.   | [1.0.6][N_TitleMap_release] (1.0.4)        |
 | [N_WeatherFog][N_WeatherFog]                       | Adds procedurally generated fog weather effect.             | [1.4.3][N_WeatherFog_release]              |
 |                                                    | **Compatible with MZ only**                                 |                                            |
-| [N_Benchmark][N_Benchmark]                         | Adds a benchmark option to the game.                        | [1.1.1][N_Benchmark_release]               |
+| [N_Benchmark][N_Benchmark]                         | Adds a benchmark option to the game.                        | [1.1.2][N_Benchmark_release]               |
 | [N_BustDialog][N_BustDialog]                       | Lets you use busts for dialogs instead of faces.            | [1.1.0][N_BustDialog_release]              |
 | [N_EnhancedAutosave][N_EnhancedAutosave]           | Adds some improvements to the existing autosave feature.    | [1.1.0][N_EnhancedAutosave_release]        |
 | [N_EnhancedTouchUIButton][N_EnhancedTouchUIButton] | Adds some improvements to the existing touch UI button.     | [1.0.1][N_EnhancedTouchUIButton_release]   |
